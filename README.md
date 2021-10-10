@@ -3,7 +3,7 @@
   <head>
     <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
     <meta name="" content="">
-    <title></title>
+   
   </head>
   <body style="color: blue;">
     <centre>
@@ -33,7 +33,6 @@
   </centre>
 </body>
 </html>
-
 
     
   
